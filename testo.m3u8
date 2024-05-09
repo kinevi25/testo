@@ -1,0 +1,75 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
+
+************************  11/MAR/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE
+
+#EXTINF:-1 group-title="México", UPDATED 11 DE MAR 12:00 HRS
+https://zzzz.zzz
+https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN | HD
+http://190.109.22.227:9991/play/a04x/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN 2 | HD
+http://190.109.22.227:9991/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" group-title="DEPORTES", ESPN 3
+http://190.109.22.227:9991/play/a062/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
+http://usuarios.club/usuarios/src5/foxsports/agosto/agosto.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 HD
+http://usuarios.club/usuarios/src5/foxsports2/agosto/agosto.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD V2
+http://s4.latino-webtv.ml:8000/foxsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 HD v2
+http://s4.latino-webtv.ml:8000/foxsports2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD V3
+http://190.109.22.227:9991/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 HD v3
+http://190.109.22.227:9991/play/a06m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 HD v3
+http://190.109.22.227:9991/play/a063/index.m3u8
+#EXTINF:-1 group-title=&quot;??- DEPORTES&quot; tvg-logo=&quot;https://i.postimg.cc/MHBLmhsX/PRUEBA-VU-TV.png&quot;,Fox Sports HD V4
+http://168.194.171.33:8000/play/a09o/index.m3u8
+#EXTINF:-1, FOX SPORTS 3 mx
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
+#EXTINF:-1, FOX SPORTS PREMIUM
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140282
+#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/Au1Wa24.png&quot; group-title=&quot;MEXICAN SPORTS&quot;,Fox Sports México
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140298
+#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/DpnatBM.png&quot; group-title=&quot;MEXICAN SPORTS&quot;,Fox Sports 2 México
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
+#EXTINF:-1 tvg-logo=&quot;https://i.imgur.com/w8sjQN2.png&quot; group-title=&quot;MEXICAN SPORTS&quot;,Fox Sports 3 México
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
+#EXTINF:-1, FOX SPORTS
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140298
+#EXTINF:-1, FOX SPORTS 2
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140324
+#EXTINF:-1, FOX SPORTS 3
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
+#EXTINF:-1 tvg-id=&quot;&quot; tvg-name=&quot;DEPORTES | FOX SPORTS 1&quot; tvg-logo=&quot;http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png&quot; group-title=&quot;?? DEPORTE VIP&quot;,410 | FOX SPORTS 1 |
+http://streamgo.vip:8008/carlos03/carlos03/167734
+#EXTINF:0 CUID=&quot;862&quot; tvg-chno=&quot;53&quot; tvg-name=&quot;FOXSPORTS 2 FHD&quot; tvg-id=&quot;foxsports2.br&quot; tvg-logo=&quot;https://logo.iptveditor.com/foxsports2.png&quot; group-title=&quot;FULL HD&quot;,FOXSPORTS 2 FHD
+http://tv.factoryiptv.com/wG4qnAymJM/duoiptv/38398
+#EXTINF:-1 tvg-id=&quot;FOXSports2.uy&quot; tvg-name=&quot;FS 2 | SUR&quot; tvg-logo=&quot;https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur.png&quot; group-title=&quot;ESPN / FOX SPORTS&quot;,FS 2 | SUR
+http://nxt.plus:8080/jesus01/jesus01/761
+#EXTINF:-1 tvg-id=&quot;FOXSports2.uy&quot; tvg-name=&quot;FS 2 HD | SUR&quot; tvg-logo=&quot;https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png&quot; group-title=&quot;ESPN / FOX SPORTS&quot;,FS 2 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/13229
+#EXTINF:-1 tvg-id=&quot;FOXSports3.uy&quot; tvg-name=&quot;FS 3 HD | SUR&quot; tvg-logo=&quot;https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png&quot; group-title=&quot;ESPN / FOX SPORTS&quot;,FS 3 HD | SUR
+http://nxt.plus:8080/jesus01/jesus01/24405
+#EXTINF:-1 tvg-id=&quot;&quot; tvg-name=&quot;DEPORTES | FOX SPORTS PREMIUM&quot; tvg-logo=&quot;http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png&quot; group-title=&quot;?? DEPORTE VIP&quot;,414| FOX SPORTS PREMIUM |
+http://streamgo.vip:8008/carlos03/carlos03/167737
+#EXTINF:0 CUID=&quot;862&quot; tvg-chno=&quot;53&quot; tvg-name=&quot;FOXSPORTS 2 FHD&quot; tvg-id=&quot;foxsports2.br&quot; tvg-logo=&quot;https://logo.iptveditor.com/foxsports2.png&quot; group-title=&quot;FULL HD&quot;,FOXSPORTS 2 FHD
+http://tv.factoryiptv.com/wG4qnAymJM/duoiptv/38398
+#EXTINF:-1 tvg-id=&quot;&quot; tvg-name=&quot;DEPORTES | FOX SPORTS PREMIUM&quot; tvg-logo=&quot;http://streamgo.vip:8008/images/65d1b536a5c2eb33ca65344adeabdfba.png&quot; group-title=&quot;?? DEPORTE VIP&quot;,414| FOX SPORTS PREMIUM |
+http://streamgo.vip:8008/carlos03/carlos03/167737
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN USA
+hthttp://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN 1
+#EXTVLCOPT--http-reconnect=true
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="DEPORTES", TUDN 2
+#EXTVLCOPT--http-reconnect=true
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id=&quot;TUDNMexico.mx&quot; tvg-name=&quot;TUDN MX&quot; tvg-logo=&quot;https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tudn-mx-hd.png&quot; group-title=&quot;DEPORTES&quot;,TUDN MX
+http://nxt.plus:8080/jesus01/jesus01/65691
+#EXTINF:-1, Afizzionados
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140
